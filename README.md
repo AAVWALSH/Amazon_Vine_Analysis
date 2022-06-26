@@ -24,8 +24,9 @@ There was a total of 1,645,553 5 star reviews. 65 of the 5 star reviews were pai
 
 ![image](https://user-images.githubusercontent.com/100727593/175836227-cfc3abf5-b01b-42fe-9081-1175d3022e06.png)
 
-35% of the 5 star reviews were paid for. 54% of the 5 star reviews were NOT paid for. 
+35% of the 5 star reviews were paid for. 54% of the 5 star reviews were not paid for. 
 
 ### Summary
 
-Based on the fact that 54% of the 5 star reviews, among the reviews deemed 'helpful', were not paid for indicts that there is not a bias towards favorable paid reviews. Only 35% of the paid reviews were 5 stars which may indicate that paid reviewers responded honestly about the products, and that they may be good but not great. For further analysis I would look at the breakdown of the other star ratings. It would be interesting to see if there were any paid 1 star rating. 
+Based on the fact that 54% of the 5 star reviews, among the reviews deemed 'helpful', were not paid for indicatess that there is not a bias towards favorable paid reviews. Only 35% of the paid reviews were 5 stars which may indicate that paid reviewers responded honestly about the products, and that they may be good but not great. For further analysis I would look at the breakdown of the other star ratings. It would be interesting to see if there were any paid 1 star rating. 
+Looking at the product titles column, it is clear that this dataset covers a wide range of pet products. For a more accurate analysis of the Vine program might be to look at a select number of best-selling products that were included in the Vine program and compare the ratio of paid/unpaid reviews on those select product. 
